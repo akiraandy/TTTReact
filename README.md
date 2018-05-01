@@ -5,6 +5,11 @@
 Make sure you have yarn installed
 https://yarnpkg.com/lang/en/docs/install/
 
+Follow instructions to download my Kotlin app:
+https://github.com/akiraandy/TTTWebAppKotlin
+
+Run the Kotlin app and then start up the React dev server.
+
 Navigate to cloned repo
 ```
 cd ~/TTTReact
