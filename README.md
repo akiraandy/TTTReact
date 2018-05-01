@@ -1,7 +1,8 @@
-###Tic Tac Toe in React that interfaces with my Java Server
+# Tic Tac Toe in React that interfaces with my Java Server
 
-To run:
-make sure you have yarn installed
+### To run:
+
+Make sure you have yarn installed
 https://yarnpkg.com/lang/en/docs/install/
 
 Navigate to cloned repo
