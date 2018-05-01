@@ -17,6 +17,12 @@ Navigate to cloned repo
 cd ~/TTTReact
 ```
 
+Resolve dependencies
+
+ ```
+ yarn install
+ ```
+
 Start the dev server
 ```
 yarn start
