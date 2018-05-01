@@ -10,6 +10,8 @@ https://github.com/akiraandy/TTTWebAppKotlin
 
 Run the Kotlin app and then start up the React dev server.
 
+### Make sure to set the Kotlin port number to 5000.
+
 Navigate to cloned repo
 ```
 cd ~/TTTReact
