@@ -1,4 +1,4 @@
-# Tic Tac Toe in React that interfaces with my Java Server
+# Tic Tac Toe in React that interfaces with my Kotlin App
 
 ### To run:
 
