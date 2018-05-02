@@ -16,7 +16,7 @@ class Welcome extends React.Component {
     }
 
     playGame = (gameType) => {
-        if (gameType == "HvH") {
+        if (gameType === "HvH") {
             this.setState({HvH: true, playing: true})
         } else {
             this.setState({HvH: false, playing: true})

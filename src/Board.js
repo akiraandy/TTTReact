@@ -1,6 +1,5 @@
 import React from 'react';
 import Square from './Square';
-import axios from 'axios'
 
 class Board extends React.Component {
     constructor(props) {

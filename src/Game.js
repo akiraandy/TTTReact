@@ -18,7 +18,7 @@ class Game extends React.Component {
     handleMove = (move) => {
         if (this.state.HvH) {
             return move
-        } else if (!this.state.HvH && this.state.currentPlayer == "X") {
+        } else if (!this.state.HvH && this.state.currentPlayer === "X") {
             return move
         } else {
             return null
@@ -26,7 +26,7 @@ class Game extends React.Component {
     }
 
     componentDidUpdate() {
-        if (!this.state.HvH && this.state.currentPlayer == "O") {
+        if (!this.state.HvH && this.state.currentPlayer === "O") {
             this.handleClick()
         }
     }
